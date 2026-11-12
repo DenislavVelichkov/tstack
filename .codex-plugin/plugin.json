@@ -1,0 +1,34 @@
+{
+  "name": "tstack",
+  "version": "0.1.0",
+  "description": "Theo's everyday agent skills: take a change to a merged PR, get multi-model review, file, babysit, modernize and take over pull requests.",
+  "author": {
+    "name": "Theo Browne",
+    "url": "https://github.com/t3dotgg"
+  },
+  "homepage": "https://github.com/t3dotgg/tstack",
+  "repository": "https://github.com/DenislavVelichkov/tstack",
+  "license": "MIT",
+  "keywords": [
+    "pull-requests",
+    "code-review",
+    "github",
+    "skills",
+    "productivity"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "tstack",
+    "shortDescription": "Everyday pull request skills",
+    "longDescription": "Skills that take a change to a merged pull request: full-send, full-stop, council, sol-loop, file-pr, takeover, babysit-pr, modernize and leaving-pr-comments.",
+    "developerName": "Theo Browne",
+    "category": "Productivity",
+    "capabilities": ["Read", "Write"],
+    "websiteURL": "https://github.com/t3dotgg/tstack",
+    "defaultPrompt": [
+      "Full send this change.",
+      "File a PR for this branch.",
+      "Babysit this PR."
+    ]
+  }
+}
