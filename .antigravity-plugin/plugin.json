@@ -1,0 +1,21 @@
+{
+  "$schema": "https://antigravity.google/schemas/v1/plugin.json",
+  "name": "tstack",
+  "displayName": "TStack",
+  "version": "1.0.0",
+  "description": "Theo's everyday agent skills: take a change to a merged PR, get multi-model review, file, babysit, modernize, and take over pull requests.",
+  "author": {
+    "name": "Theo Browne",
+    "url": "https://github.com/t3dotgg"
+  },
+  "homepage": "https://github.com/t3dotgg/tstack",
+  "repository": "https://github.com/DenislavVelichkov/tstack",
+  "license": "MIT",
+  "keywords": [
+    "pull-requests",
+    "code-review",
+    "github",
+    "skills",
+    "productivity"
+  ]
+}
